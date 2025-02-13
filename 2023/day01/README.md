@@ -8,5 +8,5 @@ This is the day you have to Take this challenge and start your #90DaysOfDevOps w
 - What is DevOps
 - What is Automation, Scaling, Infrastructure
 - Why DevOps is Important, etc
-
+Thanks you
 [Next Day →](../day02/README.md)
